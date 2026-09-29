@@ -2,7 +2,7 @@
 
 Updated for repo: https://github.com/daoyking/github-daily-stars
 
-## Top 10 (Daily Star Growth / Trending)
+## Top 10 (Daily Star Growth / Trending) — Updated 2026-09-28
 
 | Rank | Repository | Stars | Source |
 |---|---|---|---|
