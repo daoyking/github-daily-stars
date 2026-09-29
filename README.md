@@ -1,8 +1,7 @@
 # GitHub Daily Star Spikes - Index (by date)
 
-- [2025-09-25.md](https://github.com/daoyking/github-daily-stars/blob/main/2025-09-25.md)
-- [2026-09-26.md](https://github.com/daoyking/github-daily-stars/blob/main/2026-09-26.md)
-- [README.md](https://github.com/daoyking/github-daily-stars/blob/main/README.md) (2026-09-29)
+- 🐙 [2025-09-25.md](https://github.com/daoyking/github-daily-stars/blob/main/2025-09-25.md)
+- 🐙 [2026-09-26.md](https://github.com/daoyking/github-daily-stars/blob/main/2026-09-26.md)
 
 ---
 
